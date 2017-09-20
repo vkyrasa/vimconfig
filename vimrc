@@ -14,6 +14,9 @@ let g:molokai_original = 1
 " set tabs as 4 spaces 
 set tabstop=4
 
+"add mouse support
+set mouse=a
+"
 set number	" show line numbers
 set showcmd	" show command in bottom
 
