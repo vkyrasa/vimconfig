@@ -13,7 +13,8 @@ let g:molokai_original = 1
 
 " set tabs as 4 spaces 
 set tabstop=4
-
+set autoindent
+set smartindent
 "add mouse support
 set mouse=a
 "
